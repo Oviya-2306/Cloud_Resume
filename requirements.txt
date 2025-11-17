@@ -1,0 +1,9 @@
+flask
+gunicorn
+fastapi
+uvicorn
+flask
+flask-cors
+requests
+boto3
+google-cloud-language
